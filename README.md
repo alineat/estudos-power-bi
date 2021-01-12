@@ -1,2 +1,6 @@
 # estudos-power-bi
-Anotações e resultados de estudos da ferramenta Power BI
+Resultados de estudos da ferramenta Power BI:  
+- Relatório de Vendas;  
+- Relatório Financeiro;  
+- Relatório de Estoque;  
+- Relatório de RH.  
